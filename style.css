@@ -4,6 +4,7 @@ body {
     padding: 0;
     line-height: 1.6;
     background-color: #f4f4f4;
+    text-align: center
 }
 
 header {
@@ -33,6 +34,7 @@ section {
     margin: 20px;
     background-color: #fff;
     border-radius: 5px;
+    text-align: center
 }
 
 footer {
