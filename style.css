@@ -56,3 +56,10 @@ footer {
     color:#094efe;
 
 }
+
+.example {
+  margin: 10px auto;
+  width:50px;
+  background: orange;
+
+}
